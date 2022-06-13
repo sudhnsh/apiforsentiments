@@ -43,7 +43,6 @@ ply==3.11
 protobuf==3.6.1
 pybadges==3.0.0
 pycairo==1.16.2
-pycups==1.9.73
 pydantic==1.9.1
 PyJWT==1.7.1
 pymacaroons==0.13.0
