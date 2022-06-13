@@ -3,10 +3,9 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from deep_translator import GoogleTranslator
 
 app=FastAPI()
-
 @app.get('/')
 def index():
-    return {'data':{'name':'Sudhanshu'}}
+    return {'data':{'Name':'Sentiments Analysis API','Team':'Cracked on Coke with &hearts'}}
 
 @app.get('/about')
 def about():
