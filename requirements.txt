@@ -70,8 +70,6 @@ starlette==0.19.1
 systemd-python==234
 threadpoolctl==3.1.0
 typing-extensions==4.2.0
-ubuntu-advantage-tools==27.8
-ubuntu-drivers-common==0.0.0
 ufw==0.36
 unattended-upgrades==0.1
 unicorn==1.0.3
