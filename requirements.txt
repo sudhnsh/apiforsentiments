@@ -38,7 +38,6 @@ netifaces==0.10.4
 numpy==1.22.4
 oauthlib==3.1.0
 olefile==0.46
-onboard==1.4.1
 paramiko==2.6.0
 pexpect==4.6.0
 Pillow==7.0.0
